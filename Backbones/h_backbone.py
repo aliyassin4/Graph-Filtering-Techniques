@@ -47,4 +47,4 @@ def h_backbone(G):
         else:
             G[u][v]['is_backbone'] = False
     
-    return G
+    return h_bridge, h_weight, G

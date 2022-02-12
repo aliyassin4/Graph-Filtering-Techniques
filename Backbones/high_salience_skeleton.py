@@ -31,9 +31,9 @@ def read(filename, column_of_interest, triangular_input = False, consider_self_l
    """
    table = pd.read_csv(filename, sep = sep)
    table = table[["source", "target", column_of_interest]]
-   table.rename(columns = {column_of_interest: "nij"}, inplace = True)
+   table.rename(columns = {column_of_interest: "weight"}, inplace = True)
    if drop_zeroes:
-      table = table[table["nij"] > 0]
+      table = table[table["weight"] > 0]
    if not consider_self_loops:
       table = table[table["source"] != table["target"]]
    if triangular_input:
@@ -56,7 +56,7 @@ def read(filename, column_of_interest, triangular_input = False, consider_self_l
 def high_salience_skeleton(table, undirected = False, return_self_loops = False):
    #sys.stderr.write("Calculating HSS score...\n")
    table = table.copy()
-   table["distance"] = 1.0 / table["nij"]
+   table["distance"] = 1.0 / table["weight"]
    nodes = set(table["source"]) | set(table["target"])
    G = nx.from_pandas_edgelist(table, source = "source", target = "target", edge_attr = "distance", create_using = nx.DiGraph())
    cs = defaultdict(float)
@@ -96,5 +96,5 @@ def high_salience_skeleton(table, undirected = False, return_self_loops = False)
       table = table.drop("edge", 1)
       table = table.drop("score_min", 1)
       table["score"] = table["score"] #/ 2.0
-   return table[["source", "target", "nij", "score"]]
+   return table[["source", "target", "weight", "score"]]
 
