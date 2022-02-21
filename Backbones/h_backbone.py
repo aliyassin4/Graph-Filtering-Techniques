@@ -5,12 +5,12 @@ def h_backbone(G):
     
     betweenness_values = nx.edge_betweenness_centrality(G, weight='weight', normalized=False)
     
-    nx.set_edge_attributes(G, {edge: {'bridge':round(betweenness_values[edge]/len(G.nodes()), 3)} for edge in betweenness_values})
+    nx.set_edge_attributes(G, {edge: {'h_bridge':round(betweenness_values[edge]/len(G.nodes()), 3)} for edge in betweenness_values})
 #     for u, v in G.edges():
 #         G[u][v]['bridge'] = round(betweenness_values[(u,v)]/len(G.nodes()),3)
     
     weight_values = list(nx.get_edge_attributes(G, 'weight').values())
-    bridge_values = list(nx.get_edge_attributes(G, 'bridge').values())
+    bridge_values = list(nx.get_edge_attributes(G, 'h_bridge').values())
 
     # sorting in ascending order
     weight_values.sort()
@@ -42,9 +42,9 @@ def h_backbone(G):
             break
             
     for u,v in G.edges():
-        if G[u][v]['bridge'] >= h_bridge or G[u][v]['weight'] >= h_weight:
-            G[u][v]['is_backbone'] = True
+        if G[u][v]['h_bridge'] >= h_bridge or G[u][v]['weight'] >= h_weight:
+            G[u][v]['h_backbone'] = True
         else:
-            G[u][v]['is_backbone'] = False
+            G[u][v]['h_backbone'] = False
     
     return h_bridge, h_weight, G
