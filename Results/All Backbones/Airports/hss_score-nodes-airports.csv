@@ -1,0 +1,121 @@
+id,lat,lng,Name,City,Country,Label,degree,weighted_degree,component
+204,48.353802,11.7861,Munich Airport,Munich,Germany,EDDM,186,77154,20
+574,39.861698150635,-104.672996521,Denver International Airport,Denver,United States,KDEN,165,76329,2
+758,41.2971,2.07846,Barcelona International Airport,Barcelona,Spain,LEBL,156,55777,14
+800,43.6584014893,7.215869903560001,Nice-Côte d'Azur Airport,Nice,France,LFMN,87,29863,18
+225,60.317199707031,24.963300704956,Helsinki Vantaa Airport,Helsinki,Finland,EFHK,75,27453,9
+813,37.9364013672,23.9444999695,Eleftherios Venizelos International Airport,Athens,Greece,LGAV,101,26329,4
+766,36.67490005493164,-4.499110221862793,Málaga Airport,Malaga,Spain,LEMG,112,24927,17
+1598,10.8187999725,106.652000427,Tan Son Nhat International Airport,Ho Chi Minh City,Vietnam,VVTS,52,19762,15
+1068,24.95759963989257,46.69879913330078,King Khaled International Airport,Riyadh,Saudi Arabia,OERK,71,19227,8
+807,48.7233333,2.3794444,Paris-Orly Airport,Paris,France,LFPO,115,13923,3
+1591,21.221200942993164,105.80699920654295,Noi Bai International Airport,Hanoi,Vietnam,VVNB,45,13450,13
+1059,26.471200942993164,49.79790115356445,King Fahd International Airport,Dammam,Saudi Arabia,OEDF,43,13288,7
+1101,23.593299865722656,58.284400939941406,Muscat International Airport,Muscat,Oman,OOMS,54,13179,10
+1321,-22.8099994659,-43.2505569458,Rio Galeão – Tom Jobim International Airport,Rio De Janeiro,Brazil,SBGL,49,12656,5
+1347,-12.9086112976,-38.3224983215,Deputado Luiz Eduardo Magalhães International Airport,Salvador,Brazil,SBSV,27,4325,11
+1428,43.35210037231445,77.04049682617188,Almaty Airport,Alma-ata,Kazakhstan,UAAA,40,4079,16
+1429,51.02220153808594,71.46690368652344,Astana International Airport,Tselinograd,Kazakhstan,UACC,30,2922,19
+1570,4.191830158233643,73.52909851074219,Malé International Airport,Male,Maldives,VRMM,23,2855,12
+1341,-8.126489639282227,-34.92359924316406,Guararapes - Gilberto Freyre International Airport,Recife,Brazil,SBRF,18,2299,6
+764,36.74459838867188,-6.060110092163086,Jerez Airport,Jerez,Spain,LEJR,13,1428,14
+773,43.42710113525391,-3.82000994682312,Santander Airport,Santander,Spain,LEXJ,16,1410,14
+1070,21.483001,40.543442,Ta’if Regional Airport,Taif,Saudi Arabia,OETF,9,942,7
+772,42.2318000793457,-8.62677001953125,Vigo Airport,Vigo,Spain,LEVX,5,890,14
+1335,-26.879999,-48.651402,Ministro Victor Konder International Airport,Navegantes,Brazil,SBNF,5,735,5
+760,43.302101,-8.37726,A Coruña Airport,La Coruna,Spain,LECO,5,704,14
+212,49.9487,7.26389,Frankfurt-Hahn Airport,Hahn,Germany,EDFH,40,672,17
+614,47.48199844,-111.3710022,Great Falls International Airport,Great Falls,United States,KGTF,7,636,2
+1595,10.1698,103.9931,Phu Quoc International Airport,Phuquoc,Vietnam,VVPQ,3,588,15
+606,48.31050109863281,-114.25599670410156,Glacier Park International Airport,Kalispell,United States,KGPI,5,577,2
+1585,11.99820041656494,109.21900177001952,Cam Ranh Airport,Nha Trang,Vietnam,VVCR,4,571,15
+1063,27.437901,41.686298,Ha'il Airport,Hail,Saudi Arabia,OEHL,5,468,7
+734,37.036389,-113.510306,St George Municipal Airport,Saint George,United States,KSGU,2,398,2
+616,46.6068000793457,-111.98300170898438,Helena Regional Airport,Helena,United States,KHLN,5,354,2
+1592,16.401500701899998,107.70300293,Phu Bai Airport,Hue,Vietnam,VVPB,2,333,15
+1583,20.81940078735352,106.7249984741211,Cat Bi International Airport,Haiphong,Vietnam,VVCI,2,313,15
+1593,13.955,109.042,Phu Cat Airport,Phucat,Vietnam,VVPC,2,272,15
+2589,18.7376003265,105.67099762,Vinh Airport,Vinh,Vietnam,VVVH,3,269,15
+1589,11.75,108.366997,Lien Khuong Airport,Dalat,Vietnam,VVDL,3,268,15
+1586,8.73183,106.633003,Co Ong Airport,Conson,Vietnam,VVCS,2,236,15
+1058,19.984399795532227,42.62089920043945,Bisha Airport,Bisha,Saudi Arabia,OEBH,3,230,7
+641,43.6072998046875,-110.73799896240234,Jackson Hole Airport,Jacksn Hole,United States,KJAC,2,215,2
+1929,50.2458,57.206699,Aktobe Airport,Aktyubinsk,Kazakhstan,UATT,4,186,16
+186,35.75809860229492,10.75469970703125,Monastir Habib Bourguiba International Airport,Monastir,Tunisia,DTMB,9,186,3
+458,27.0464992523,31.0119991302,Assiut International Airport,Asyut,Egypt,HEAT,5,171,8
+801,42.74039840698242,2.8706700801849365,Perpignan-Rivesaltes (Llabanère) Airport,Perpignan,France,LFMP,5,168,3
+1581,12.668299675,108.120002747,Buon Ma Thuot Airport,Buonmethuot,Vietnam,VVBM,4,165,15
+1337,-9.362409591674805,-40.56909942626953,Senador Nilo Coelho Airport,Petrolina,Brazil,SBPL,4,156,6
+2115,43.0973014832,6.14602994919,Toulon-Hyères Airport,Hyeres,France,LFTH,2,151,3
+1587,10.085100174,105.711997986,Can Tho International Airport,Can Tho,Vietnam,VVCT,3,148,13
+1582,15.4033002853,108.706001282,Chu Lai International Airport,Chu Lai,Vietnam,VVCA,2,143,15
+637,48.177898407,-103.641998291,Sloulin Field International Airport,Williston,United States,KISN,2,142,2
+2289,49.173301696777344,-0.449999988079071,Caen-Carpiquet Airport,Caen,France,LFRK,3,137,18
+1388,4.819809913639999,-52.3604011536,Cayenne-Rochambeau Airport,Cayenne,French Guiana,SOCA,3,130,3
+2089,45.78559875488281,24.09129905700684,Sibiu International Airport,Sibiu,Romania,LRSB,3,122,20
+1505,50.036598205566406,82.49420166015625,Ust-Kamennogorsk Airport,Ust Kamenogorsk,Kazakhstan,UASK,4,118,16
+1319,-3.85493,-32.423302,Fernando de Noronha Airport,Fernando Do Noronha,Brazil,SBFN,2,117,6
+558,44.520198822,-109.024002075,Yellowstone Regional Airport,Cody,United States,KCOD,2,115,2
+2348,29.78510093688965,40.09999847412109,Al-Jawf Domestic Airport,Al-Jawf,Saudi Arabia,OESK,2,114,8
+439,34.787200927734375,-1.92399001121521,Angads Airport,Oujda,Morocco,GMFO,8,114,3
+1594,14.00450038909912,108.01699829101562,Pleiku Airport,Pleiku,Vietnam,VVPK,2,110,15
+812,40.855899810791016,25.95630073547364,Dimokritos Airport,Alexandroupolis,Greece,LGAL,2,100,4
+572,37.76340103149414,-99.9655990600586,Dodge City Regional Airport,Dodge City,United States,KDDC,2,99,2
+2219,44.3488998413,-105.539001465,Gillette Campbell County Airport,Gillette,United States,KGCC,1,97,2
+2093,66.564796447754,25.830400466919,Rovaniemi Airport,Rovaniemi,Finland,EFRO,1,92,9
+721,41.5942,-109.065001,Southwest Wyoming Regional Airport,Rock Springs,United States,KRKS,2,90,2
+2538,53.20690155029297,63.55030059814453,Kostanay West Airport,Kostanay,Kazakhstan,UAUU,2,88,16
+1433,52.19499969482422,77.07389831542969,Pavlodar Airport,Pavlodar,Kazakhstan,UASP,3,87,16
+2346,30.90660095214844,41.13819885253906,Arar Domestic Airport,Arar,Saudi Arabia,OERR,2,86,8
+166,35.0167007446,-1.45000004768,Zenata – Messali El Hadj Airport,Tlemcen,Algeria,DAON,4,83,3
+783,43.1786994934082,-0.0064389999024569,Tarbes-Lourdes-Pyrénées Airport,Tarbes,France,LFBT,4,80,3
+2224,37.0442009,-100.9599991,Liberal Mid-America Regional Airport,Liberal,United States,KLBL,2,79,2
+545,37.3030014038,-108.627998352,Cortez Municipal Airport,Cortez,United States,KCEZ,1,77,2
+1062,31.412413,37.278898,Gurayat Domestic Airport,Guriat,Saudi Arabia,OEGT,2,74,8
+2221,40.48120117,-107.2180023,Yampa Valley Airport,Hayden,United States,KHDN,1,71,2
+159,36.7120018005,5.0699200630200005,Soummam Airport,Bejaja,Algeria,DAAE,4,69,3
+2286,41.7061004639,-4.85194015503,Valladolid Airport,Valladolid,Spain,LEVD,2,63,14
+2223,41.12620163,-100.6839981,North Platte Regional Airport Lee Bird Field,North Platte,United States,KLBF,1,61,2
+2537,44.706902,65.592499,Kzyl-Orda Southwest Airport,Kzyl-Orda,Kazakhstan,UAOO,2,59,19
+2218,39.64260101,-106.9179993,Eagle County Regional Airport,Vail,United States,KEGE,1,59,2
+2222,41.31209945678711,-105.6750030517578,Laramie Regional Airport,Laramie,United States,KLAR,1,58,2
+2225,40.20629883,-100.5920029,Mc Cook Ben Nelson Regional Airport,McCook,United States,KMCK,1,58,2
+2227,38.289100646972656,-104.49700164794922,Pueblo Memorial Airport,Pueblo,United States,KPUB,1,57,2
+168,34.7933006287,5.73823022842,Biskra Airport,Biskra,Algeria,DAUB,3,57,3
+2291,47.97499847412109,-4.167789936065674,Quimper-Cornouaille Airport,Quimper,France,LFRQ,1,56,3
+162,36.178100585900005,5.32449007034,Ain Arnat Airport,Setif,Algeria,DAAS,4,56,3
+2217,46.7974014282,-102.802001953,Dickinson Theodore Roosevelt Regional Airport,Dickinson,United States,KDIK,1,53,2
+787,44.407901763916016,2.4826700687408447,Rodez-Marcillac Airport,Rodez,France,LFCR,2,53,3
+1329,-7.26992,-35.8964,Presidente João Suassuna Airport,Campina Grande,Brazil,SBKG,2,52,11
+796,35.7521018982,6.308589935300001,Batna Airport,Batna,Algeria,DABT,4,48,3
+2293,39.6963996887207,20.82250022888184,Ioannina Airport,Ioannina,Greece,LGIO,1,42,4
+2220,38.53390121,-106.9329987,Gunnison Crested Butte Regional Airport,Gunnison,United States,KGUC,1,40,2
+1588,21.3974990845,103.008003235,Dien Bien Phu Airport,Dienbienphu,Vietnam,VVDB,1,36,13
+1099,26.17099952697754,56.2406005859375,Khasab Air Base,Khasab,Oman,OOKB,1,32,10
+2350,31.692188,38.731544,Turaif Domestic Airport,Turaif,Saudi Arabia,OETR,1,32,8
+786,43.55630111694336,2.289180040359497,Castres-Mazamet Airport,Castres,France,LFCK,1,31,3
+2292,45.039722,1.485556,Brive Souillac Airport,Brive,France,LFSL,2,29,3
+1934,-0.693342,73.155602,Gan International Airport,Gan Island,Maldives,VRMG,2,28,12
+2228,43.064201355,-108.459999084,Riverton Regional Airport,Riverton WY,United States,KRIW,1,27,2
+2007,37.6827011108,26.3470993042,Ikaria Airport,Ikaria,Greece,LGIK,2,26,4
+190,33.939701080322266,8.110560417175293,Tozeur Nefta International Airport,Tozeur,Tunisia,DTTZ,2,26,3
+1067,29.626399993896484,43.4906005859375,Rafha Domestic Airport,Rafha,Saudi Arabia,OERF,1,24,8
+2230,44.76919937133789,-106.9800033569336,Sheridan County Airport,Sheridan,United States,KSHR,1,23,2
+775,44.17470169067383,0.5905560255050659,Agen-La Garenne Airport,Agen,France,LFBA,1,22,3
+1596,9.95802997234,105.132379532,Rach Gia Airport,Rach Gia,Vietnam,VVRG,1,22,15
+2011,42.85359954833984,71.30359649658203,Taraz Airport,Dzhambul,Kazakhstan,UADD,2,21,19
+229,61.461700439453,21.799999237061,Pori Airport,Pori,Finland,EFPO,2,20,9
+1584,9.177667,105.177778,Cà Mau Airport,Ca Mau,Vietnam,VVCM,1,18,15
+798,44.89139938354492,2.4219400882720947,Aurillac Airport,Aurillac,France,LFLW,1,17,3
+784,45.19810104370117,0.815555989742279,Périgueux-Bassillac Airport,Perigueux,France,LFBX,1,16,3
+789,45.0806999206543,3.762890100479126,Le Puy-Loudes Airport,Le Puy,France,LFHP,1,16,3
+2284,42.5890007019043,-5.65556001663208,Leon Airport,Leon,Spain,LELN,1,16,14
+2000,-28.030000686645508,145.6219940185547,Cunnamulla Airport,Cunnamulla,Australia,YCMU,2,12,1
+1994,30.9391002655,-6.909430027010001,Ouarzazate Airport,Ouarzazate,Morocco,GMMZ,2,8,3
+1056,26.48,38.1288888889,Majeed Bin Abdulaziz Airport,Al-Ula,Saudi Arabia,OEAO,1,8,8
+1331,-12.4822998047,-41.2770004272,Coronel Horácio de Mattos Airport,Lençóis,Brazil,SBLE,1,8,11
+2689,-9.4008798599243,-38.250598907471,Paulo Afonso Airport,Paulo Alfonso,Brazil,SBUF,1,8,11
+567,41.15570068,-104.8119965,Cheyenne Regional Jerry Olson Field,Cheyenne,United States,KCYS,1,7,2
+1933,5.1561,73.1302,Dharavandhoo Airport,DHARAVANDHOO,Maldives,VRMD,1,6,12
+2726,-27.986400604248047,143.81100463867188,Thargomindah Airport,Thargomindah,Australia,YTGM,1,6,1
+2536,53.329102,69.594597,Kokshetau Airport,Kokshetau,Kazakhstan,UACK,1,6,16

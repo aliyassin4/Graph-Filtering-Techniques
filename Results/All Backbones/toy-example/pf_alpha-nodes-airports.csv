@@ -1,0 +1,57 @@
+id,lat,lng,Name,City,Country,Label,degree,weighted_degree,component
+647,36.08010101,-115.1520004,McCarran International Airport,Las Vegas,United States,KLAS,133,83054,13
+700,39.87189865112305,-75.24109649658203,Philadelphia International Airport,Philadelphia,United States,KPHL,122,81950,18
+529,42.36429977,-71.00520325,General Edward Lawrence Logan International Airport,Boston,United States,KBOS,102,78835,22
+702,33.43429946899414,-112.01200103759766,Phoenix Sky Harbor International Airport,Phoenix,United States,KPHX,91,71831,21
+893,47.464699,8.54917,Zürich Airport,Zurich,Switzerland,LSZH,132,64108,22
+725,32.7336006165,-117.190002441,San Diego International Airport,San Diego,United States,KSAN,57,61988,24
+286,53.421299,-6.27007,Dublin Airport,Dublin,Ireland,EIDW,141,61987,5
+1202,35.7647018433,140.386001587,Narita International Airport,Tokyo,Japan,RJAA,103,56947,2
+697,45.58869934,-122.5979996,Portland International Airport,Portland,United States,KPDX,58,53236,24
+1548,28.5665,77.103104,Indira Gandhi International Airport,Delhi,India,VIDP,91,38756,23
+885,38.7813,-9.13592,Humberto Delgado Airport (Lisbon Portela Airport),Lisbon,Portugal,LPPT,102,38217,8
+1201,25.0777,121.233002,Taiwan Taoyuan International Airport,Taipei,Taiwan,RCTP,102,37346,16
+308,60.121,11.0502,Oslo Lufthavn,Oslo,Norway,ENGM,101,27982,10
+766,36.67490005493164,-4.499110221862793,Málaga Airport,Malaga,Spain,LEMG,112,24927,26
+1706,-37.673302,144.843002,Melbourne International Airport,Melbourne,Australia,YMML,53,24911,23
+257,51.148102,-0.190278,London Gatwick Airport,London,United Kingdom,EGKK,157,20335,1
+340,52.1656990051,20.9671001434,Warsaw Chopin Airport,Warsaw,Poland,EPWA,76,20095,20
+1812,31.197900772094727,121.33599853515624,Shanghai Hongqiao International Airport,Shanghai,China,ZSSS,59,15907,11
+1790,24.54400062561035,118.12799835205078,Xiamen Gaoqi International Airport,Xiamen,China,ZSAM,68,14326,16
+878,37.0144004822,-7.96590995789,Faro Airport,Faro,Portugal,LPFR,62,11123,12
+333,50.077702,19.7848,Kraków John Paul II International Airport,Krakow,Poland,EPKK,51,10900,25
+210,52.461101532,9.68507957458,Hannover Airport,Hannover,Germany,EDDV,50,10512,12
+278,51.8849983215,0.234999999404,London Stansted Airport,London,United Kingdom,EGSS,143,9678,4
+712,33.8297004699707,-116.50700378417967,Palm Springs International Airport,Palm Springs,United States,KPSP,17,9371,21
+747,34.875099182128906,33.624900817871094,Larnaca International Airport,Larnaca,Cyprus,LCLK,53,8546,10
+752,43.53889846801758,16.29800033569336,Split Airport,Split,Croatia,LDSP,37,7046,1
+1422,12.5014,-70.015198,Queen Beatrix International Airport,Oranjestad,Aruba,TNCA,22,6890,19
+301,60.29339981,5.218140125,Bergen Airport Flesland,Bergen,Norway,ENBR,44,6713,14
+332,54.37760162353516,18.46619987487793,Gdańsk Lech Wałęsa Airport,Gdansk,Poland,EPGD,41,6504,3
+860,43.683899,10.3927,Pisa International Airport,Pisa,Italy,LIRP,61,5944,15
+978,32.541099548339844,-116.97000122070312,General Abelardo L. Rodríguez International Airport,Tijuana,Mexico,MMTJ,32,5430,2
+664,40.1935005188,-76.7633972168,Harrisburg International Airport,Harrisburg,United States,KMDT,12,4094,18
+598,42.96540069580078,-83.74359893798828,Bishop International Airport,Flint,United States,KFNT,7,3951,13
+855,45.395699,10.8885,Verona Villafranca Airport,Villafranca,Italy,LIPX,23,3927,5
+428,28.452699661254883,-13.863800048828123,Fuerteventura Airport,Fuerteventura,Spain,GCFV,53,3743,1
+284,51.84130096435547,-8.491109848022461,Cork Airport,Cork,Ireland,EICK,28,2994,8
+1200,25.06940078735352,121.552001953125,Taipei Songshan Airport,Taipei,Taiwan,RCSS,19,2599,11
+827,35.531700134277344,24.14970016479492,Chania International Airport,Chania,Greece,LGSA,37,1656,10
+300,67.26920318603516,14.365300178527832,Bodø Airport,Bodo,Norway,ENBO,14,1015,14
+255,49.435001373291016,-2.601969957351685,Guernsey Airport,Guernsey,Guernsey,EGJB,14,948,4
+1041,-41.298301696777344,173.2209930419922,Nelson Airport,Nelson,New Zealand,NZNS,4,829,17
+212,49.9487,7.26389,Frankfurt-Hahn Airport,Hahn,Germany,EDFH,40,672,15
+1043,-40.32059860229492,175.61700439453125,Palmerston North Airport,Palmerston North,New Zealand,NZPM,5,552,17
+309,59.34529876709,5.2083601951599,Haugesund Airport,Haugesund,Norway,ENHD,6,409,3
+843,37.9114,12.488,Vincenzo Florio Airport Trapani-Birgi,Trapani,Italy,LICT,14,254,25
+448,16.7414,-22.9494,Amílcar Cabral International Airport,Amilcar Cabral,Cape Verde,GVAC,13,225,6
+1387,5.4528298378,-55.1878013611,Johan Adolf Pengel International Airport,Zandery,Suriname,SMJP,6,130,19
+251,50.77999877929688,-1.8424999713897705,Bournemouth Airport,Bournemouth,United Kingdom,EGHH,12,122,26
+957,25.6851997375,-109.081001282,Valle del Fuerte International Airport,Los Mochis,Mexico,MMLM,4,113,2
+310,70.679702758789,23.668600082397,Hammerfest Airport,Hammerfest,Norway,ENHF,9,102,7
+319,62.180000305176,6.0741000175476,"Ørsta-Volda Airport, Hovden",Orsta-Volda,Norway,ENOV,4,88,9
+2121,61.156101,7.13778,Sogndal Airport,Sogndal,Norway,ENSG,4,61,9
+1961,16.136499404907227,-22.888900756835938,Rabil Airport,Boa Vista,Cape Verde,GVBA,9,57,6
+2126,42.176700592,42.4826011658,Kopitnari Airport,Kutaisi,Georgia,UGKO,3,28,20
+315,71.02970123291,27.826700210571,Mehamn Airport,Mehamn,Norway,ENMH,5,24,7
+312,71.009696960449,25.983600616455,Valan Airport,Honningsvag,Norway,ENHV,2,22,7

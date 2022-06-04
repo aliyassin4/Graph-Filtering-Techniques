@@ -5,36 +5,7 @@ import networkx as nx
 from collections import defaultdict
 from scipy.stats import binom
 
-def stability_jac(table1, table2):
-   table1_edges = set(zip(table1["source"], table1["target"]))
-   table2_edges = set(zip(table2["source"], table2["target"]))
-   return float(len(table1_edges & table2_edges)) / len(table1_edges | table2_edges)
 
-def stability_corr(table1, table2, method = "spearman", log = False, what = "weight"):
-   corr_table = table1.merge(table2, on = ["source", "target"])
-   corr_table = corr_table[["%s_x" % what, "%s_y" % what]]
-   if log:
-      corr_table["%s_x" % what] = np.log(corr_table["%s_x" % what])
-      corr_table["%s_y" % what] = np.log(corr_table["%s_y" % what])
-   return corr_table["%s_x" % what].corr(corr_table["%s_y" % what], method = method)
-
-def test_densities(table, start, end, step):
-   if start > end:
-      raise ValueError("start must be lower than end")
-   steps = []
-   x = start
-   while x <= end:
-      steps.append(x)
-      x += step
-   onodes = len(set(table["source"]) | set(table["target"]))
-   oedges = table.shape[0]
-   oavgdeg = (2.0 * oedges) / onodes
-   for s in steps:
-      edge_table = thresholding(table, s)
-      nodes = len(set(edge_table["source"]) | set(edge_table["target"]))
-      edges = edge_table.shape[0]
-      avgdeg = (2.0 * edges) / nodes
-      yield (s, nodes, (100.0 * nodes) / onodes, edges, (100.0 * edges) / oedges, avgdeg, avgdeg / oavgdeg)
 
 def noise_corrected(table, undirected = False, return_self_loops = False, calculate_p_value = False):
    #sys.stderr.write("Calculating NC score...\n")
@@ -65,4 +36,4 @@ def noise_corrected(table, undirected = False, return_self_loops = False, calcul
       table = table[table["source"] != table["target"]]
    if undirected:
       table = table[table["source"] <= table["target"]]
-   return table[["source", "target", "weight", "score", "sdev_cij"]]
+   return table#[["source", "target", "weight", "score", "sdev_cij"]]

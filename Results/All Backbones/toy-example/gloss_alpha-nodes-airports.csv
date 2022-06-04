@@ -1,0 +1,33 @@
+id,lat,lng,Name,City,Country,Label,degree,weighted_degree,component
+691,41.9786,-87.9048,Chicago O'Hare International Airport,Chicago,United States,KORD,200,146093,2
+259,51.4706,-0.461941,London Heathrow Airport,London,United Kingdom,EGLL,167,138629,1
+781,43.629101,1.36382,Toulouse-Blagnac Airport,Toulouse,France,LFBO,46,8970,1
+1053,26.27079963684082,50.63359832763672,Bahrain International Airport,Bahrain,Bahrain,OBBI,39,8846,1
+747,34.875099182128906,33.624900817871094,Larnaca International Airport,Larnaca,Cyprus,LCLK,53,8546,1
+1094,33.820899963378906,35.488399505615234,Beirut Rafic Hariri International Airport,Beirut,Lebanon,OLBA,44,8500,1
+468,-1.31923997402,36.9277992249,Jomo Kenyatta International Airport,Nairobi,Kenya,HKJK,59,7109,1
+752,43.53889846801758,16.29800033569336,Split Airport,Split,Croatia,LDSP,37,7046,1
+1082,35.416099548339844,51.15219879150391,Imam Khomeini International Airport,Tehran,Iran,OIIE,42,6947,1
+301,60.29339981,5.218140125,Bergen Airport Flesland,Bergen,Norway,ENBR,44,6713,1
+753,45.7429008484,16.0687999725,Zagreb Airport,Zagreb,Croatia,LDZA,24,6476,1
+331,58.876701354,5.6377801895,Stavanger Airport Sola,Stavanger,Norway,ENZV,31,5657,1
+546,35.035301208496094,-85.20379638671875,Lovell Field,Chattanooga,United States,KCHA,8,4812,2
+622,34.637199401855,-86.775100708008,Huntsville International Carl T Jones Field,Huntsville,United States,KHSV,9,4517,2
+995,19.2928009033,-81.3576965332,Owen Roberts International Airport,Georgetown,Cayman Islands,MWCR,19,4482,2
+1428,43.35210037231445,77.04049682617188,Almaty Airport,Alma-ata,Kazakhstan,UAAA,40,4079,1
+1108,24.9065,67.160797,Jinnah International Airport,Karachi,Pakistan,OPKC,33,4070,1
+2186,27.39539909362793,-82.55439758300781,Sarasota Bradenton International Airport,Sarasota,United States,KSRQ,6,3945,2
+270,57.20190048217773,-2.197779893875122,Aberdeen Dyce Airport,Aberdeen,United Kingdom,EGPD,29,3932,1
+372,-33.9648017883,18.6016998291,Cape Town International Airport,Cape Town,South Africa,FACT,21,3690,1
+642,32.3111991882,-90.0758972168,Jackson-Medgar Wiley Evers International Airport,Jackson,United States,KJAN,8,3525,2
+549,41.88470077514648,-91.71080017089844,The Eastern Iowa Airport,Cedar Rapids,United States,KCID,11,3204,2
+709,30.473400115967,-87.186599731445,Pensacola Regional Airport,Pensacola,United States,KPNS,11,2830,2
+146,43.035599,-81.1539,London Airport,London,Canada,CYXU,5,2368,2
+511,35.43619918823242,-82.54180145263672,Asheville Regional Airport,Asheville,United States,KAVL,8,2313,2
+512,41.3385009766,-75.72339630130001,Wilkes Barre Scranton International Airport,Scranton,United States,KAVP,5,2148,2
+608,44.48509979248047,-88.12960052490234,Austin Straubel International Airport,Green Bay,United States,KGRB,4,1903,2
+677,30.691200256348,-88.242797851562,Mobile Regional Airport,Mobile,United States,KMOB,5,1611,2
+486,40.652099609375,-75.44080352783203,Lehigh Valley International Airport,Allentown,United States,KABE,9,1575,2
+2184,37.24570084,-93.38860321,Springfield Branson National Airport,Springfield,United States,KSGF,9,1500,2
+540,45.77750015,-111.1529999,Gallatin Field,Bozeman,United States,KBZN,7,1215,2
+576,46.8420982361,-92.1936035156,Duluth International Airport,Duluth,United States,KDLH,3,897,2

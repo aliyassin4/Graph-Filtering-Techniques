@@ -1,0 +1,281 @@
+id,IATA,Latitude,Longitude,Name,City,Country,Label,degree,weighted_degree,component
+648,LAX,33.94250107,-118.4079971,Los Angeles International Airport,Los Angeles,United States,KLAX,110,111923,1
+691,ORD,41.9786,-87.9048,Chicago O'Hare International Airport,Chicago,United States,KORD,172,107283,1
+506,ATL,33.6367,-84.428101,Hartsfield Jackson Atlanta International Airport,Atlanta,United States,KATL,186,114944,1
+575,DFW,32.896801,-97.038002,Dallas Fort Worth International Airport,Dallas-Fort Worth,United States,KDFW,171,102143,1
+645,JFK,40.63980103,-73.77890015,John F Kennedy International Airport,New York,United States,KJFK,94,48323,1
+591,EWR,40.692501068115234,-74.168701171875,Newark Liberty International Airport,Newark,United States,KEWR,113,65053,1
+733,SFO,37.61899948120117,-122.375,San Francisco International Airport,San Francisco,United States,KSFO,83,75472,1
+730,SEA,47.449001,-122.308998,Seattle Tacoma International Airport,Seattle,United States,KSEA,81,74942,1
+554,CLT,35.2140007019043,-80.94309997558594,Charlotte Douglas International Airport,Charlotte,United States,KCLT,133,76459,1
+571,DCA,38.8521,-77.037697,Ronald Reagan Washington National Airport,Washington,United States,KDCA,90,88348,1
+157,YYZ,43.6772003174,-79.63059997559999,Lester B. Pearson International Airport,Toronto,Canada,CYYZ,102,50853,1
+647,LAS,36.08010101,-115.1520004,McCarran International Airport,Las Vegas,United States,KLAS,127,73747,1
+700,PHL,39.87189865112305,-75.24109649658203,Philadelphia International Airport,Philadelphia,United States,KPHL,104,62659,1
+529,BOS,42.36429977,-71.00520325,General Edward Lawrence Logan International Airport,Boston,United States,KBOS,86,57700,1
+627,IAH,29.984399795532227,-95.34140014648438,George Bush Intercontinental Houston Airport,Houston,United States,KIAH,145,59937,1
+574,DEN,39.861698150635,-104.672996521,Denver International Airport,Denver,United States,KDEN,161,67411,1
+128,YUL,45.4706001282,-73.7407989502,Montreal / Pierre Elliott Trudeau International Airport,Montreal,Canada,CYUL,68,54786,1
+702,PHX,33.43429946899414,-112.01200103759766,Phoenix Sky Harbor International Airport,Phoenix,United States,KPHX,89,66596,1
+682,MSP,44.882,-93.221802,Minneapolis-St Paul International/Wold-Chamberlain Airport,Minneapolis,United States,KMSP,124,62628,1
+579,DTW,42.212398529052734,-83.35340118408203,Detroit Metropolitan Wayne County Airport,Detroit,United States,KDTW,123,52899,1
+673,MIA,25.79319953918457,-80.29060363769531,Miami International Airport,Miami,United States,KMIA,96,44302,1
+625,IAD,38.94449997,-77.45580292,Washington Dulles International Airport,Washington,United States,KIAD,93,38661,1
+663,MCO,28.429399490356445,-81.30899810791016,Orlando International Airport,Orlando,United States,KMCO,94,56903,1
+725,SAN,32.7336006165,-117.190002441,San Diego International Airport,San Diego,United States,KSAN,55,56481,1
+736,SLC,40.78839874267578,-111.97799682617188,Salt Lake City International Airport,Salt Lake City,United States,KSLC,90,52788,1
+697,PDX,45.58869934,-122.5979996,Portland International Airport,Portland,United States,KPDX,56,51454,1
+651,LGA,40.77719879,-73.87259674,La Guardia Airport,New York,United States,KLGA,70,51832,1
+597,FLL,26.072599,-80.152702,Fort Lauderdale Hollywood International Airport,Fort Lauderdale,United States,KFLL,87,49326,1
+981,CUN,21.036500930800003,-86.8770980835,Cancún International Airport,Cancun,Mexico,MMUN,65,44535,1
+132,YVR,49.193901062,-123.183998108,Vancouver International Airport,Vancouver,Canada,CYVR,58,29563,1
+965,MEX,19.4363,-99.072098,Licenciado Benito Juarez International Airport,Mexico City,Mexico,MMMX,79,32772,1
+741,TPA,27.975500106811523,-82.533203125,Tampa International Airport,Tampa,United States,KTPA,65,37969,1
+1187,HNL,21.32062,-157.924228,Daniel K Inouye International Airport,Honolulu,United States,PHNL,29,28637,1
+552,CLE,41.4117012024,-81.8498001099,Cleveland Hopkins International Airport,Cleveland,United States,KCLE,48,35109,1
+718,RDU,35.87760162353516,-78.7874984741211,Raleigh Durham International Airport,Raleigh-durham,United States,KRDU,38,25601,1
+708,PIT,40.49150085,-80.23290253,Pittsburgh International Airport,Pittsburgh,United States,KPIT,36,28775,1
+674,MKE,42.94720077514648,-87.89659881591797,General Mitchell International Airport,Milwaukee,United States,KMKE,30,29644,1
+539,BWI,39.1754,-76.668297,Baltimore/Washington International Thurgood Marshall Airport,Baltimore,United States,KBWI,70,25827,1
+150,YYC,51.113899231,-114.019996643,Calgary International Airport,Calgary,Canada,CYYC,52,21231,1
+683,MSY,29.99340057373047,-90.25800323486328,Louis Armstrong New Orleans International Airport,New Orleans,United States,KMSY,39,26372,1
+514,BDL,41.9388999939,-72.68319702149999,Bradley International Airport,Windsor Locks,United States,KBDL,26,25886,1
+510,AUS,30.194499969482425,-97.6698989868164,Austin Bergstrom International Airport,Austin,United States,KAUS,41,22448,1
+739,STL,38.748697,-90.370003,St Louis Lambert International Airport,St. Louis,United States,KSTL,59,24855,1
+661,MCI,39.2976,-94.713898,Kansas City International Airport,Kansas City,United States,KMCI,42,24726,1
+726,SAT,29.533700942993164,-98.46980285644533,San Antonio International Airport,San Antonio,United States,KSAT,35,23508,1
+724,RSW,26.53619956970215,-81.75520324707031,Southwest Florida International Airport,Fort Myers,United States,KRSW,30,22588,1
+984,PTY,9.0713596344,-79.3834991455,Tocumen International Airport,Panama City,Panama,MPTO,38,17261,1
+1417,SJU,18.4393997192,-66.0018005371,Luis Munoz Marin International Airport,San Juan,Puerto Rico,TJSJ,42,21213,1
+565,CVG,39.0488014221,-84.6678009033,Cincinnati Northern Kentucky International Airport,Cincinnati,United States,KCVG,45,19341,1
+735,SJC,37.362598,-121.929001,Norman Y. Mineta San Jose International Airport,San Jose,United States,KSJC,29,20380,1
+53,YEG,53.3097000122,-113.580001831,Edmonton International Airport,Edmonton,Canada,CYEG,36,18989,1
+665,MDW,41.785999,-87.752403,Chicago Midway International Airport,Chicago,United States,KMDW,75,19489,1
+555,CMH,39.998001,-82.891899,John Glenn Columbus International Airport,Columbus,United States,KCMH,33,18425,1
+94,YOW,45.3224983215332,-75.66919708251953,Ottawa Macdonald-Cartier International Airport,Ottawa,Canada,CYOW,24,15380,5
+688,OKC,35.39310073852539,-97.60070037841795,Will Rogers World Airport,Oklahoma City,United States,KOKC,22,17051,1
+618,HOU,29.64539909,-95.27890015,William P Hobby Airport,Houston,United States,KHOU,47,16354,1
+929,PUJ,18.5673999786,-68.36340332030001,Punta Cana International Airport,Punta Cana,Dominican Republic,MDPC,26,12463,1
+720,RIC,37.50519943237305,-77.3197021484375,Richmond International Airport,Richmond,United States,KRIC,19,15584,11
+1005,NAS,25.0389995575,-77.46620178219999,Lynden Pindling International Airport,Nassau,Bahamas,MYNN,37,14803,1
+632,IND,39.7173,-86.294403,Indianapolis International Airport,Indianapolis,United States,KIND,34,15050,1
+687,OAK,37.721298,-122.221001,Metropolitan Oakland International Airport,Oakland,United States,KOAK,34,14765,1
+952,GDL,20.52179908752441,-103.31099700927734,Don Miguel Hidalgo Y Costilla International Airport,Guadalajara,Mexico,MMGL,40,14681,1
+611,GRR,42.88079834,-85.52279663,Gerald R. Ford International Airport,Grand Rapids,United States,KGRR,20,14152,1
+488,ABQ,35.040199,-106.609001,Albuquerque International Sunport,Albuquerque,United States,KABQ,23,14007,1
+578,DSM,41.53400039672852,-93.66310119628906,Des Moines International Airport,Des Moines,United States,KDSM,17,13604,1
+498,ALB,42.74829864501953,-73.80169677734375,Albany International Airport,Albany,United States,KALB,19,13161,1
+986,SJO,9.993860244750977,-84.20880126953125,Juan Santamaria International Airport,San Jose,Costa Rica,MROC,24,12363,1
+692,ORF,36.89459991455078,-76.20120239257812,Norfolk International Airport,Norfolk,United States,KORF,19,12979,1
+723,ROC,43.118900299072266,-77.67240142822266,Greater Rochester International Airport,Rochester,United States,KROC,18,12812,1
+2190,TUS,32.1161003112793,-110.94100189208984,Tucson International Airport,Tucson,United States,KTUS,16,12746,1
+527,BNA,36.1245002746582,-86.6781997680664,Nashville International Airport,Nashville,United States,KBNA,46,12734,1
+643,JAX,30.49410057067871,-81.68789672851562,Jacksonville International Airport,Jacksonville,United States,KJAX,26,12620,1
+2191,TYS,35.81100082,-83.9940033,McGhee Tyson Airport,Knoxville,United States,KTYS,17,12023,1
+1894,MBJ,18.503700256347656,-77.91339874267578,Sangster International Airport,Montego Bay,Jamaica,MKJS,24,11153,1
+520,BHM,33.56290054,-86.75350189,Birmingham-Shuttlesworth International Airport,Birmingham,United States,KBHM,20,11457,1
+548,CHS,32.89860153,-80.04049683,Charleston Air Force Base-International Airport,Charleston,United States,KCHS,19,11376,1
+966,MTY,25.7784996033,-100.107002258,General Mariano Escobedo International Airport,Monterrey,Mexico,MMMY,32,11142,1
+653,LIT,34.729400634799994,-92.2242965698,Bill & Hillary Clinton National Airport/Adams Field,Little Rock,United States,KLIT,17,10697,1
+1161,ANC,61.17440032958984,-149.99600219726562,Ted Stevens Anchorage International Airport,Anchorage,United States,PANC,34,10511,1
+2183,SAV,32.12760162,-81.20210266,Savannah Hilton Head International Airport,Savannah,United States,KSAV,13,10478,1
+77,YHZ,44.8807983398,-63.5085983276,Halifax / Stanfield International Airport,Halifax,Canada,CYHZ,30,9356,1
+2194,XNA,36.281898,-94.306801,Northwest Arkansas Regional Airport,Bentonville,United States,KXNA,14,9763,1
+974,SJD,23.15180015563965,-109.72100067138672,Los Cabos International Airport,San Jose Del Cabo,Mexico,MMSD,22,9594,1
+613,GSP,34.8956985474,-82.2189025879,Greenville Spartanburg International Airport,Greenville,United States,KGSP,19,9558,1
+685,MYR,33.6796989441,-78.9282989502,Myrtle Beach International Airport,Myrtle Beach,United States,KMYR,22,9510,1
+712,PSP,33.8297004699707,-116.50700378417967,Palm Springs International Airport,Palm Springs,United States,KPSP,17,9371,1
+537,BUF,42.94049835,-78.73220062,Buffalo Niagara International Airport,Buffalo,United States,KBUF,19,9294,1
+2067,SYR,43.11119842529297,-76.1063003540039,Syracuse Hancock International Airport,Syracuse,United States,KSYR,16,9245,1
+738,SNA,33.67570114,-117.8679962,John Wayne Airport-Orange County Airport,Santa Ana,United States,KSNA,21,9191,1
+971,PVR,20.680099487304688,-105.25399780273438,Licenciado Gustavo Díaz Ordaz International Airport,Puerto Vallarta,Mexico,MMPR,21,8789,1
+987,SAL,13.4409,-89.055702,Monseñor Óscar Arnulfo Romero International Airport,San Salvador,El Salvador,MSLP,24,7692,1
+667,MEM,35.04240036010742,-89.97669982910156,Memphis International Airport,Memphis,United States,KMEM,32,8197,1
+722,RNO,39.49909973144531,-119.76799774169922,Reno Tahoe International Airport,Reno,United States,KRNO,14,7878,1
+714,PVD,41.732601,-71.420403,Theodore Francis Green State Airport,Providence,United States,KPVD,19,7543,1
+1422,AUA,12.5014,-70.015198,Queen Beatrix International Airport,Oranjestad,Aruba,TNCA,16,6690,1
+528,BOI,43.5644,-116.223,Boise Air Terminal/Gowen Field,Boise,United States,KBOI,16,6627,1
+541,CAE,33.93880081176758,-81.11949920654297,Columbia Metropolitan Airport,Columbia,United States,KCAE,10,6611,1
+1184,LIH,21.97599983215332,-159.33900451660156,Lihue Airport,Lihue,United States,PHLI,11,6599,1
+134,YWG,49.9099998474,-97.2398986816,Winnipeg / James Armstrong Richardson International Airport,Winnipeg,Canada,CYWG,22,6565,1
+671,MHT,42.932598,-71.435699,Manchester-Boston Regional Airport,Manchester NH,United States,KMHT,14,6061,1
+559,COS,38.805801,-104.700996,City of Colorado Springs Municipal Airport,Colorado Springs,United States,KCOS,11,5950,1
+930,SDQ,18.42970085144,-69.668899536133,Las Américas International Airport,Santo Domingo,Dominican Republic,MDSD,22,4212,1
+932,GUA,14.5833,-90.527496,La Aurora Airport,Guatemala City,Guatemala,MGGT,17,5240,6
+690,ONT,34.055999755859375,-117.60099792480467,Ontario International Airport,Ontario,United States,KONT,15,5614,1
+729,SDF,38.1744,-85.736,Louisville International Standiford Field,Louisville,United States,KSDF,23,5570,1
+978,TIJ,32.541099548339844,-116.97000122070312,General Abelardo L. Rodríguez International Airport,Tijuana,Mexico,MMTJ,30,5393,1
+102,YQB,46.7911,-71.393303,Quebec Jean Lesage International Airport,Quebec,Canada,CYQB,19,4992,5
+536,BTV,44.4719009399,-73.15329742429999,Burlington International Airport,Burlington,United States,KBTV,9,5250,1
+538,BUR,34.20069885253906,-118.35900115966795,Bob Hope Airport,Burbank,United States,KBUR,12,5102,1
+586,ELP,31.80719948,-106.3779984,El Paso International Airport,El Paso,United States,KELP,13,5018,1
+992,HAV,22.989200592041016,-82.40910339355469,José Martí International Airport,Havana,Cuba,MUHA,15,1380,8
+568,DAL,32.847099,-96.851799,Dallas Love Field,Dallas,United States,KDAL,23,4864,1
+546,CHA,35.035301208496094,-85.20379638671875,Lovell Field,Chattanooga,United States,KCHA,8,4812,1
+652,LGB,33.81769943,-118.1520004,Long Beach /Daugherty Field/ Airport,Long Beach,United States,KLGB,12,4798,1
+622,HSV,34.637199401855,-86.775100708008,Huntsville International Carl T Jones Field,Huntsville,United States,KHSV,9,4517,1
+995,GCM,19.2928009033,-81.3576965332,Owen Roberts International Airport,Georgetown,Cayman Islands,MWCR,19,4482,1
+927,PLS,21.77359962463379,-72.26589965820312,Providenciales Airport,Providenciales,Turks and Caicos Islands,MBPV,21,4454,1
+664,MDT,40.1935005188,-76.7633972168,Harrisburg International Airport,Harrisburg,United States,KMDT,12,4094,1
+594,FAT,36.77619934082031,-119.71800231933594,Fresno Yosemite International Airport,Fresno,United States,KFAT,11,4029,1
+598,FNT,42.96540069580078,-83.74359893798828,Bishop International Airport,Flint,United States,KFNT,7,3951,1
+593,FAR,46.92070007324219,-96.81580352783205,Hector International Airport,Fargo,United States,KFAR,9,3863,1
+1412,STT,18.337299346923828,-64.97339630126953,Cyril E. King Airport,St. Thomas,Virgin Islands,TIST,18,3853,1
+155,YYT,47.618598938,-52.7518997192,St. John's International Airport,St. John's,Canada,CYYT,12,3644,1
+642,JAN,32.3111991882,-90.0758972168,Jackson-Medgar Wiley Evers International Airport,Jackson,United States,KJAN,8,3525,1
+127,YTZ,43.627499,-79.396202,Billy Bishop Toronto City Centre Airport,Toronto,Canada,CYTZ,13,3251,5
+549,CID,41.88470077514648,-91.71080017089844,The Eastern Iowa Airport,Cedar Rapids,United States,KCID,11,3204,1
+727,SBA,34.42620087,-119.8399963,Santa Barbara Municipal Airport,Santa Barbara,United States,KSBA,6,2996,1
+985,LIR,10.5933,-85.544403,Daniel Oduber Quiros International Airport,Liberia,Costa Rica,MRLB,13,2937,1
+676,MLI,41.44850158691406,-90.50749969482422,Quad City International Airport,Moline,United States,KMLI,10,2881,1
+709,PNS,30.473400115967,-87.186599731445,Pensacola Regional Airport,Pensacola,United States,KPNS,11,2830,1
+703,PIA,40.664199829100006,-89.6932983398,General Wayne A. Downing Peoria International Airport,Peoria,United States,KPIA,10,2715,1
+710,PSC,46.26470184326172,-119.11900329589844,Tri Cities Airport,Pasco,United States,KPSC,8,2459,1
+740,TLH,30.396499633789062,-84.35030364990234,Tallahassee Regional Airport,Tallahassee,United States,KTLH,7,2375,1
+2068,POS,10.595399856567385,-61.33720016479492,Piarco International Airport,Port-of-spain,Trinidad and Tobago,TTPP,15,2144,1
+507,ATW,44.2580986023,-88.5190963745,Appleton International Airport,Appleton,United States,KATW,7,2320,9
+599,FSD,43.5820007324,-96.741897583,Joe Foss Field Airport,Sioux Falls,United States,KFSD,9,2306,1
+89,YMM,56.653301239,-111.222000122,Fort McMurray Airport,Fort Mcmurray,Canada,CYMM,7,2179,1
+512,AVP,41.3385009766,-75.72339630130001,Wilkes Barre Scranton International Airport,Scranton,United States,KAVP,5,2148,1
+1002,FPO,26.5587005615,-78.695602417,Grand Bahama International Airport,Freeport,Bahamas,MYGF,10,2140,11
+524,BLI,48.79280090332031,-122.53800201416016,Bellingham International Airport,Bellingham,United States,KBLI,9,2045,1
+977,TGZ,16.5636005402,-93.0224990845,Angel Albino Corzo International Airport,Tuxtla Gutierrez,Mexico,MMTG,5,1986,1
+934,SAP,15.4526,-87.923599,Ramón Villeda Morales International Airport,San Pedro Sula,Honduras,MHLM,13,1977,1
+669,MFR,42.37419891357422,-122.8730010986328,Rogue Valley International Medford Airport,Medford,United States,KMFR,7,1921,1
+608,GRB,44.48509979248047,-88.12960052490234,Austin Straubel International Airport,Green Bay,United States,KGRB,4,1903,1
+1426,SXM,18.0410003662,-63.1088981628,Princess Juliana International Airport,Philipsburg,Netherlands Antilles,TNCM,30,1840,1
+564,CRW,38.37310028076172,-81.59320068359375,Yeager Airport,Charleston,United States,KCRW,8,1856,1
+2195,BZE,17.539100646972656,-88.30819702148438,Philip S. W. Goldson International Airport,Belize City,Belize,MZBZ,11,1675,1
+2177,MGM,32.30059814,-86.39399719,Montgomery Regional (Dannelly Field) Airport,MONTGOMERY,United States,KMGM,3,1842,1
+2257,VER,19.1459007263,-96.1873016357,General Heriberto Jara International Airport,Vera Cruz,Mexico,MMVR,8,1803,1
+496,AGS,33.36989974975586,-81.9645004272461,Augusta Regional At Bush Field,Bush Field,United States,KAGS,3,1756,1
+2185,SHV,32.446602,-93.8256,Shreveport Regional Airport,Shreveport,United States,KSHV,5,1754,1
+989,PAP,18.57999992370605,-72.2925033569336,Toussaint Louverture International Airport,Port-au-prince,Haiti,MTPP,12,1716,1
+2069,BDA,32.36399841308594,-64.67870330810547,L.F. Wade International International Airport,Bermuda,Bermuda,TXKF,7,1666,1
+604,GJT,39.1223983765,-108.527000427,Grand Junction Regional Airport,Grand Junction,United States,KGJT,6,1615,1
+715,RAP,44.0452995300293,-103.05699920654295,Rapid City Regional Airport,Rapid City,United States,KRAP,7,1608,1
+139,YXE,52.17079925537109,-106.6999969482422,Saskatoon John G. Diefenbaker International Airport,Saskatoon,Canada,CYXE,9,1604,1
+486,ABE,40.652099609375,-75.44080352783203,Lehigh Valley International Airport,Allentown,United States,KABE,9,1575,1
+521,BIL,45.80770111083984,-108.54299926757812,Billings Logan International Airport,Billings,United States,KBIL,12,1574,1
+526,BMI,40.47710037,-88.91590118,Central Illinois Regional Airport at Bloomington-Normal,Bloomington,United States,KBMI,8,1565,1
+937,KIN,17.935699462890625,-76.7874984741211,Norman Manley International Airport,Kingston,Jamaica,MKJP,16,1477,1
+2264,STS,38.50899887,-122.8130035,Charles M. Schulz Sonoma County Airport,Santa Rosa,United States,KSTS,4,1532,1
+1878,SBN,41.70869827270508,-86.31729888916016,South Bend Regional Airport,South Bend,United States,KSBN,9,1509,1
+983,MGA,12.14150047302246,-86.16819763183594,Augusto C. Sandino (Managua) International Airport,Managua,Nicaragua,MNMG,8,1450,1
+513,AZO,42.234901428222656,-85.5521011352539,Kalamazoo Battle Creek International Airport,Kalamazoo,United States,KAZO,4,1402,1
+975,SLP,22.254299163800003,-100.930999756,Ponciano Arriaga International Airport,San Luis Potosi,Mexico,MMSP,5,1362,1
+953,HMO,29.095899581900003,-111.047996521,General Ignacio P. Garcia International Airport,Hermosillo,Mexico,MMHO,9,1240,1
+582,ECP,30.357106,-85.795414,Northwest Florida Beaches International Airport,Panama City,United States,KECP,5,1225,1
+540,BZN,45.77750015,-111.1529999,Gallatin Field,Bozeman,United States,KBZN,7,1215,1
+681,MSO,46.91630173,-114.0910034,Missoula International Airport,Missoula,United States,KMSO,7,1202,1
+547,CHO,38.13859939575195,-78.4529037475586,Charlottesville Albemarle Airport,Charlottesville VA,United States,KCHO,6,1184,1
+931,STI,19.406099319458008,-70.60469818115234,Cibao International Airport,Santiago,Dominican Republic,MDST,8,1165,1
+107,YQM,46.11220169067383,-64.67859649658203,Greater Moncton International Airport,Moncton,Canada,CYQM,7,1146,1
+109,YQR,50.43190002441406,-104.66600036621094,Regina International Airport,Regina,Canada,CYQR,7,1124,1
+1424,CUR,12.1889,-68.959801,Hato International Airport,Willemstad,Netherlands Antilles,TNCC,8,838,1
+502,AMA,35.219398,-101.706001,Rick Husband Amarillo International Airport,Amarillo,United States,KAMA,6,960,1
+1137,FAI,64.81510162,-147.8560028,Fairbanks International Airport,Fairbanks,United States,PAFA,18,956,13
+2032,YZV,50.22330093383789,-66.2656021118164,Sept-Îles Airport,Sept-iles,Canada,CYZV,10,858,5
+610,GRK,31.067199707,-97.8289031982,Robert Gray  Army Air Field Airport,Killeen,United States,KGRK,3,833,1
+2246,SWF,41.50410079956055,-74.10479736328125,Stewart International Airport,Newburgh,United States,KSWF,5,803,1
+2247,TVC,44.74140167236328,-85.58219909667969,Cherry Capital Airport,Traverse City,United States,KTVC,3,797,1
+1154,JNU,58.35499954223633,-134.5760040283203,Juneau International Airport,Juneau,United States,PAJN,10,785,7
+566,CWA,44.7775993347,-89.6668014526,Central Wisconsin Airport,Wassau,United States,KCWA,3,746,1
+731,SFB,28.7775993347168,-81.23750305175781,Orlando Sanford International Airport,Sanford,United States,KSFB,41,708,9
+589,EVV,38.0369987488,-87.5324020386,Evansville Regional Airport,Evansville,United States,KEVV,4,695,1
+50,YDF,49.21080017089844,-57.39139938354492,Deer Lake Airport,Deer Lake,Canada,CYDF,5,673,1
+2236,LRD,27.543800354003903,-99.46160125732422,Laredo International Airport,Laredo,United States,KLRD,3,646,1
+614,GTF,47.48199844,-111.3710022,Great Falls International Airport,Great Falls,United States,KGTF,7,636,1
+495,AEX,31.32740020751953,-92.54979705810548,Alexandria International Airport,Alexandria,United States,KAEX,3,627,1
+1123,BET,60.77980042,-161.8379974,Bethel Airport,Bethel,United States,PABE,20,594,10
+605,GNV,29.6900997162,-82.2717971802,Gainesville Regional Airport,Gainesville,United States,KGNV,5,582,1
+595,FAY,34.9911994934082,-78.88030242919922,Fayetteville Regional Grannis Field,Fayetteville,United States,KFAY,4,559,1
+105,YQG,42.27560043334961,-82.95559692382812,Windsor Airport,Windsor,Canada,CYQG,3,547,5
+1407,FDF,14.590999603271484,-61.00320053100586,Martinique Aimé Césaire International Airport,Fort-de-france,Martinique,TFFF,7,341,8
+145,YXS,53.8894004822,-122.679000854,Prince George Airport,Prince George,Canada,CYXS,8,520,4
+2176,LFT,30.20529938,-91.98760223,Lafayette Regional Airport,Lafayette,United States,KLFT,3,508,1
+967,MZT,23.1613998413,-106.26599884,General Rafael Buelna International Airport,Mazatlan,Mexico,MMMZ,8,506,21
+73,YHM,43.1735992432,-79.93499755859999,John C. Munro Hamilton International Airport,Hamilton,Canada,CYHM,4,504,1
+1165,OME,64.51219940185547,-165.44500732421875,Nome Airport,Nome,United States,PAOM,15,455,17
+561,CPR,42.908001,-106.463997,Casper-Natrona County International Airport,Casper,United States,KCPR,3,450,1
+640,AZA,33.30780029,-111.6549988,Phoenix-Mesa-Gateway Airport,Mesa,United States,KIWA,30,445,1
+705,PIE,27.91020012,-82.68740082,St Petersburg Clearwater International Airport,St. Petersburg,United States,KPIE,29,438,1
+79,YKA,50.7022018433,-120.444000244,Kamloops Airport,Kamloops,Canada,CYKA,3,425,4
+935,RTB,16.316799,-86.523003,Juan Manuel Galvez International Airport,Roatan,Honduras,MHRO,10,406,6
+57,YFB,63.756402,-68.555801,Iqaluit Airport,Iqaluit,Canada,CYFB,9,404,2
+2204,MVY,41.3931007385,-70.6143035889,Martha's Vineyard Airport,Vineyard Haven MA,United States,KMVY,4,374,20
+616,HLN,46.6068000793457,-111.98300170898438,Helena Regional Airport,Helena,United States,KHLN,5,354,1
+2181,OAJ,34.8292007446,-77.61209869380001,Albert J Ellis Airport,Jacksonville NC,United States,KOAJ,2,352,1
+1999,VRA,23.034400939941406,-81.435302734375,Juan Gualberto Gomez International Airport,Varadero,Cuba,MUVR,5,311,1
+2028,YVO,48.0532989502,-77.7827987671,Val-d'Or Airport,Val D'or,Canada,CYVO,5,339,15
+2029,YVP,58.096099853515625,-68.4269027709961,Kuujjuaq Airport,Quujjuaq,Canada,CYVP,9,304,2
+120,YSJ,45.31610107421875,-65.89029693603516,Saint John Airport,St. John,Canada,CYSJ,3,286,1
+144,YXL,50.11389923095703,-91.9052963256836,Sioux Lookout Airport,Sioux Lookout,Canada,CYXL,17,281,16
+140,YXJ,56.23809814453125,-120.73999786376952,Fort St John Airport,Fort Saint John,Canada,CYXJ,5,272,4
+1420,SLU,14.0202,-60.992901,George F. L. Charles Airport,Castries,Saint Lucia,TLPC,6,268,1
+112,YQX,48.9369010925293,-54.56809997558594,Gander International Airport,Gander,Canada,CYQX,3,263,1
+34,YAM,46.48500061035156,-84.5093994140625,Sault Ste Marie Airport,Sault Sainte Marie,Canada,CYAM,4,240,1
+129,YUY,48.20610046386719,-78.83560180664062,Rouyn Noranda Airport,Rouyn,Canada,CYUY,3,231,1
+641,JAC,43.6072998046875,-110.73799896240234,Jackson Hole Airport,Jacksn Hole,United States,KJAC,2,215,1
+1135,ADQ,57.75,-152.4940033,Kodiak Airport,Kodiak,United States,PADQ,2,201,19
+596,FLG,35.13850021,-111.6709976,Flagstaff Pulliam Airport,Flagstaff,United States,KFLG,1,199,1
+2250,ORH,42.26729965209961,-71.87570190429688,Worcester Regional Airport,Worcester,United States,KORH,2,186,1
+2052,SNU,22.49220085144043,-79.943603515625,Abel Santamaria Airport,Santa Clara,Cuba,MUSC,3,180,1
+100,YPX,60.05059814453125,-77.28690338134766,Puvirnituq Airport,Puvirnituq,Canada,CYPX,4,166,14
+2214,PGV,35.6352005,-77.38529968,Pitt Greenville Airport,Greenville,United States,KPGV,1,156,1
+590,EWB,41.67610168457031,-70.95690155029297,New Bedford Regional Airport,New Bedford,United States,KEWB,3,153,20
+68,YGW,55.28189849853516,-77.76529693603516,Kuujjuarapik Airport,Kuujjuarapik,Canada,CYGW,6,139,1
+2055,YYD,54.82469940185547,-127.18299865722656,Smithers Airport,Smithers,Canada,CYYD,3,134,4
+55,YEV,68.30419921880001,-133.483001709,Inuvik Mike Zubko Airport,Inuvik,Canada,CYEV,7,131,12
+48,YCG,49.2963981628,-117.632003784,Castlegar/West Kootenay Regional Airport,Castlegar,Canada,CYCG,2,125,1
+95,YPH,58.471900939941406,-78.07689666748047,Inukjuak Airport,Inukjuak,Canada,CYPH,3,118,14
+1000,GHB,25.2847003937,-76.3310012817,Governor's Harbour Airport,Governor's Harbor,Bahamas,MYEM,2,118,1
+63,YGL,53.625301361083984,-77.7042007446289,La Grande Rivière Airport,La Grande Riviere,Canada,CYGL,3,116,1
+558,COD,44.520198822,-109.024002075,Yellowstone Regional Airport,Cody,United States,KCOD,2,115,1
+957,LMM,25.6851997375,-109.081001282,Valle del Fuerte International Airport,Los Mochis,Mexico,MMLM,4,113,21
+2279,YKM,46.56819916,-120.5439987,Yakima Air Terminal McAllister Field,Yakima,United States,KYKM,1,111,1
+2168,OGS,44.6819000244,-75.46549987790002,Ogdensburg International Airport,Ogdensburg,United States,KOGS,1,109,1
+1876,PBG,44.6509017944336,-73.46810150146484,Plattsburgh International Airport,Plattsburgh,United States,KPBG,5,106,1
+544,CDR,42.837600708,-103.095001221,Chadron Municipal Airport,Chadron,United States,KCDR,2,98,1
+2275,SUX,42.40259933,-96.38439941,Sioux Gateway Col. Bud Day Field,Sioux City,United States,KSUX,1,95,1
+988,CAP,19.733,-72.194702,Cap Haitien International Airport,Cap Haitien,Haiti,MTCH,2,93,1
+570,DBQ,42.40200043,-90.70950317,Dubuque Regional Airport,Dubuque IA,United States,KDBQ,1,92,1
+36,YKG,60.02719879150391,-69.99919891357422,Kangirsuk Airport,Kangirsuk,Canada,CYAS,3,88,3
+2252,ZSA,24.06329917907715,-74.52400207519531,San Salvador Airport,Cockburn Town,Bahamas,MYSM,4,87,1
+1143,GAM,63.76679992675781,-171.73300170898438,Gambell Airport,Gambell,United States,PAGM,2,75,17
+158,YCO,67.816704,-115.143997,Kugluktuk Airport,Coppermine,Canada,CYCO,3,71,12
+1144,GST,58.4253006,-135.7070007,Gustavus Airport,Gustavus,United States,PAGS,1,71,7
+626,IAG,43.1072998046875,-78.94619750976562,Niagara Falls International Airport,Niagara Falls,United States,KIAG,5,70,1
+125,YTQ,58.66780090332031,-69.95580291748047,Tasiujaq Airport,Tasiujaq,Canada,CYTQ,2,65,2
+31,YKU,53.80559921264648,-78.91690063476562,Chisasibi Airport,Chisasibi,Canada,CSU2,4,64,15
+2262,SCK,37.894199371338,-121.2379989624,Stockton Metropolitan Airport,Stockton,United States,KSCK,1,63,1
+2702,AZS,19.2670001984,-69.7419967651,Samaná El Catey International Airport,Samana,Dominican Republic,MDCY,3,63,1
+70,YQC,61.0463981628418,-69.6177978515625,Quaqtaq Airport,Quaqtaq,Canada,CYHA,2,61,3
+81,YWB,61.5886001587,-71.929397583,Kangiqsujuaq (Wakeham Bay) Airport,Kangiqsujuaq,Canada,CYKG,2,61,3
+543,CDC,37.70100021362305,-113.0989990234375,Cedar City Regional Airport,Cedar City,United States,KCDC,1,60,1
+2205,PQI,46.68899918,-68.0447998,Northern Maine Regional Airport at Presque Isle,Presque Isle,United States,KPQI,1,57,1
+534,BTM,45.95479965209961,-112.49700164794922,Bert Mooney Airport,Butte,United States,KBTM,1,55,1
+2244,PLN,45.57089996,-84.79669952,Pellston Regional Airport of Emmet County Airport,Pellston,United States,KPLN,1,52,1
+1129,CIK,66.6449966431,-143.740005493,Chalkyitsik Airport,Chalkyitsik,United States,PACI,2,44,13
+704,LCK,39.813801,-82.927803,Rickenbacker International Airport,Columbus,United States,KLCK,2,43,1
+101,YPY,58.7672004699707,-111.11699676513672,Fort Chipewyan Airport,Fort Chipewyan,Canada,CYPY,2,38,1
+49,YCY,70.4860992432,-68.5167007446,Clyde River Airport,Clyde River,Canada,CYCY,2,36,18
+933,LCE,15.7425,-86.852997,Goloson International Airport,La Ceiba,Honduras,MHLC,3,28,1
+503,APN,45.0780983,-83.56030273,Alpena County Regional Airport,Alpena,United States,KAPN,1,28,1
+80,YKF,43.4608001709,-80.3786010742,Waterloo Airport,Waterloo,Canada,CYKF,1,28,1
+122,YHI,70.76280212402344,-117.80599975585938,Ulukhaktok Holman Airport,Holman Island,Canada,CYHI,3,25,12
+44,YBR,49.91,-99.951897,Brandon Municipal Airport,Brandon,Canada,CYBR,1,25,1
+654,LMT,42.156101,-121.733002,Crater Lake-Klamath Regional Airport,Klamath Falls,United States,KLMT,1,24,1
+1174,SCM,61.845298767100005,-165.570999146,Scammon Bay Airport,Scammon Bay,United States,PACM,2,24,10
+2658,YSK,56.5377998352,-79.2466964722,Sanikiluaq Airport,Sanikiluaq,Canada,CYSK,2,23,1
+2043,YIO,72.6832962036,-77.9666976929,Pond Inlet Airport,Pond Inlet,Canada,CYIO,2,22,18
+97,YPN,49.83639907836914,-64.2885971069336,Port Menier Airport,Port Menier,Canada,CYPN,2,19,5
+2039,YLC,62.8499984741,-69.88330078119999,Kimmirut Airport,Kimmirut,Canada,CYLC,1,16,2
+563,CLD,33.12829971,-117.2799988,Mc Clellan-Palomar Airport,Carlsbad,United States,KCRQ,1,10,1
+2380,AKK,56.9387016296,-154.182998657,Akhiok Airport,Akhiok,United States,PAKH,1,10,19
+584,ELD,33.22100067138672,-92.81330108642578,South Arkansas Regional At Goodwin Field,El Dorado,United States,KELD,3,10,1
+1863,YAX,53.84920120239258,-89.57939910888672,Wapekeka Airport,Angling Lake,Canada,CKB6,1,7,16
+116,YPM,51.81969833374024,-93.97329711914062,Pikangikum Airport,Pikangikum,Canada,CYPM,2,7,16
+1898,GAO,20.08530044555664,-75.1583023071289,Mariana Grajales Airport,Guantanamo,Cuba,MUGT,1,6,8
+1879,CNY,38.75500107,-109.7549973,Canyonlands Field,Moab,United States,KCNY,1,2,1
+2707,LAM,35.8797988892,-106.268997192,Los Alamos Airport,Los Alamos,United States,KLAM,1,1,1

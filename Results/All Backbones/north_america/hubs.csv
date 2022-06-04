@@ -1,0 +1,52 @@
+﻿Name,Label,type
+New York LaGuardia Airport,LGA,HUB
+New York John F. Kennedy International Airport,JFK,HUB
+Philadelphia International Airport,PHL,HUB
+Washington Ronald Reagan National Airport ,DCA,HUB
+Charlotte Douglas International Airport,CLT,HUB
+Miami International Airport,MIA,HUB
+Chicago O'Hare International Airport,ORD,HUB
+Dallas-Ft. Worth International Airport,DFW,HUB
+Phoenix Sky Harbor International Airport,PHX,HUB
+Los Angeles International Airport ,LAX,HUB
+Newark Liberty International Airport (EWR),EWR,HUB
+Washington Dulles International Airport (IAD),IAD,HUB
+Houston George-Bush Intercontinental Airport (IAH),IAH,HUB
+Denver International Airport (DEN),DEN,HUB
+San Francisco International Airport (SFO),SFO,HUB
+Boston Logan International Airport (BOS),BOS,HUB
+Detroit Metropolitan Airport (DTW),DTW,HUB
+Cincinnati/Northern Kentucky International Airport (CVG),CVG,HUB
+Hartsfield-Jackson Atlanta International Airport (ATL),ATL,HUB
+Minneapolis-St. Paul International Airport (MSP),MSP,HUB
+Salt Lake City International Airport (SLC),SLC,HUB
+Seattle-Tacoma International Airport (SEA),SEA,HUB
+Baltimore-Washington International Airport (BWI),BWI,FOCUS
+Orlando International Airport (MCO),MCO,FOCUS
+Ft. Lauderdale-Hollywood International Airport (FLL),FLL,FOCUS
+Tampa International Airport (TPA),TPA,FOCUS
+Nashville International Airport (BNA),BNA,FOCUS
+General Mitchell International Airport (MKE),MKE,FOCUS
+Chicago Midway Airport (MDW),MDW,FOCUS
+Dallas Love Field Airport (DAL),DAL,FOCUS
+Houston Hobby Airport (HOU),HOU,FOCUS
+McCarran International Airport (LAS),LAS,FOCUS
+Oakland International Airport (OAK),OAK,FOCUS
+John Wayne Airport (SNA),SNA,FOCUS
+San Diego International Airport (SAN),SAN,FOCUS
+St. Louis Lambert International Airport (STL),STL,FOCUS
+Luis Muñoz Marín International Airport (SJU),SJU,FOCUS
+Long Beach Airport (LGB),LGB,FOCUS
+Ted Stevens Anchorage International Airport (ANC),ANC,HUB
+Portland International Airport (PDX),PDX,HUB
+Vancouver International Airport (YVR),YVR,HUB
+Calgary International Airport (YYC),YYC,HUB
+Toronto Pearson International Airport (YYZ),YYZ,HUB
+Montréal–Pierre Elliott Trudeau International Airport (YUL),YUL,HUB
+Sanford,SFB,FOCUS
+SAN JOSE,SJC,FOCUS
+BOISE,BOI,FOCUS
+TRENTON,TTN,FOCUS
+RALEIGH,RDU,FOCUS
+CLEVELAND,CLE,FOCUS
+NORFLOK,ORF,FOCUS

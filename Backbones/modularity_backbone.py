@@ -194,6 +194,7 @@ def modularity_backbone(g, k):
         dict_original_modv_absolute[node] = abs(list_modv[i])
     
     
+    #print(dict_original_modv_absolute)
         
     top_y, top_x = get_top_k_best_nodes(dict_original_modv_absolute, len(g1))
     
@@ -202,6 +203,7 @@ def modularity_backbone(g, k):
     modularity_at_each_node_removal.append(community.modularity(communities, g)) # Intiial modularity
     communities_flipped_prunned = {}
    
+    nx.set_node_attributes(g1, dict_original_modv_absolute, name='modularity')
     
     for i in range(k):
         last_element = top_x.pop() # Get the node to be removed

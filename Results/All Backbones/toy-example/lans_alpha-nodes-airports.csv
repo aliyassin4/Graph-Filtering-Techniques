@@ -1,0 +1,15 @@
+id,lat,lng,Name,City,Country,Label,degree,weighted_degree,component
+648,33.94250107,-118.4079971,Los Angeles International Airport,Los Angeles,United States,KLAX,144,146563,1
+259,51.4706,-0.461941,London Heathrow Airport,London,United Kingdom,EGLL,167,138629,2
+575,32.896801,-97.038002,Dallas Fort Worth International Airport,Dallas-Fort Worth,United States,KDFW,188,122407,3
+645,40.63980103,-73.77890015,John F Kennedy International Airport,New York,United States,KJFK,160,110863,5
+128,45.4706001282,-73.7407989502,Montreal / Pierre Elliott Trudeau International Airport,Montreal,Canada,CYUL,95,72866,3
+682,44.882,-93.221802,Minneapolis-St Paul International/Wold-Chamberlain Airport,Minneapolis,United States,KMSP,128,70461,2
+579,42.212398529052734,-83.35340118408203,Detroit Metropolitan Wayne County Airport,Detroit,United States,KDTW,133,67832,2
+758,41.2971,2.07846,Barcelona International Airport,Barcelona,Spain,LEBL,156,55777,5
+552,41.4117012024,-81.8498001099,Cleveland Hopkins International Airport,Cleveland,United States,KCLE,48,35109,1
+674,42.94720077514648,-87.89659881591797,General Mitchell International Airport,Milwaukee,United States,KMKE,30,29644,1
+688,35.39310073852539,-97.60070037841795,Will Rogers World Airport,Oklahoma City,United States,KOKC,22,17051,1
+720,37.50519943237305,-77.3197021484375,Richmond International Airport,Richmond,United States,KRIC,19,15584,3
+1260,33.51129913330078,126.49299621582033,Jeju International Airport,Cheju,South Korea,RKPC,30,9053,4
+1265,37.5583,126.791,Gimpo International Airport,Seoul,South Korea,RKSS,13,6365,4

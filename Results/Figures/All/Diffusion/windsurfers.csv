@@ -1,0 +1,8 @@
+,infection_participation
+Global Threshold,0.4444928160140711
+Disparity Filter,-0.6048589470143257
+High Salience Skeleton,0.3023285628338982
+Noise Corrected Filter,0.7467188031178513
+Polya Filter,0.056112076360664245
+GLOSS Filter,-0.45876083561785175
+Z-score Filter,0.44449281601407115

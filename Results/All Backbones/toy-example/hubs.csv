@@ -1,0 +1,24 @@
+﻿Name,ID,City,Label,Degree,Weighted Degree,type,Companies
+San Francisco International Airport,733,San Francisco,SFO,25,28057,HUB,UA - AS
+Denver International Airport,574,Denver,DEN,30,20047,HUB,UA - (WN)
+Newark Liberty International Airport,591,Newark,EWR,28,18390,HUB,UA
+George Bush Intercontinental Houston Airport,627,Houston,IAH,29,15166,HUB,UA
+Washington Dulles International Airport,625,Washington,IAD,26,10697,HUB,UA
+Seattle Tacoma International Airport,730,Seattle,SEA,24,44350,HUB,DL - AS
+Hartsfield Jackson Atlanta International Airport,506,Atlanta,ATL,32,36050,HUB,DL - (WN)
+General Edward Lawrence Logan International Airport,529,Boston,BOS,27,15952,HUB,DL - (B6)
+Salt Lake City International Airport,736,Salt Lake City,SLC,23,23054,HUB,DL
+Minneapolis-St Paul International/Wold-Chamberlain Airport,682,Minneapolis,MSP,30,21171,HUB,DL
+Detroit Metropolitan Wayne County Airport,579,Detroit,DTW,30,11690,HUB,DL
+Los Angeles International Airport,648,Los Angeles,LAX,25,28737,HUB,AA - UA - DL - AS - (WN)
+Chicago O'Hare International Airport,691,Chicago,ORD,32,29032,HUB,AA - UA
+John F Kennedy International Airport,645,New York,JFK,22,14416,HUB,AA - DL - (B6)
+Phoenix Sky Harbor International Airport,702,Phoenix,PHX,27,31784,HUB,AA - (WN)
+Ronald Reagan Washington National Airport,571,Washington,DCA,27,39711,HUB,AA
+Dallas Fort Worth International Airport,575,Dallas-Fort Worth,DFW,30,24221,HUB,AA
+Charlotte Douglas International Airport,554,Charlotte,CLT,29,23813,HUB,AA
+Philadelphia International Airport,700,Philadelphia,PHL,29,23724,HUB,AA
+Miami International Airport,673,Miami,MIA,22,18349,HUB,AA
+Fort Lauderdale Hollywood International Airport,597,Fort Lauderdale,FLL,24,22882,FOCUS,(WN) - (B6)
+Orlando International Airport,663,Orlando,MCO,25,22088,FOCUS,(WN) - (B6)
+McCarran International Airport,647,Las Vegas,LAS,28,26074,FOCUS,(WN)

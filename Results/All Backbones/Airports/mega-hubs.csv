@@ -1,0 +1,45 @@
+Label,Country,Region,Company,Degree,Weighted Degree
+LAX,USA,NORTH AMERICA,American Airlines,144,146563
+ORD,USA,NORTH AMERICA,United Airlines,200,146093
+LHR,United Kingdom,EUROPE,British Airways,167,138629
+ATL,USA,NORTH AMERICA,Delta Air Lines,212,135109
+DFW,USA,NORTH AMERICA,American Airlines,188,122407
+CDG,France,EUROPE,Air France,233,113422
+FRA,Germany,EUROPE,Lufthansa German Airlines,241,112802
+JFK,USA,NORTH AMERICA,Delta Air Lines,160,110863
+EWR,USA,NORTH AMERICA,United Airlines,152,106850
+AMS,Netherlands,EUROPE,KLM-Royal Dutch Airlines,242,91405
+YYZ,Canada,NORTH AMERICA,Air Canada,147,85631
+IAH,USA,NORTH AMERICA,United Airlines,165,77421
+MUC,Germany,EUROPE,Lufthansa German Airlines,186,77154
+FCO,Italy,EUROPE,Alitalia-Societa Aerea Italiana S.p.A,158,66810
+MIA,USA,NORTH AMERICA,American Airlines,138,64302
+ZRH,Switzerland,EUROPE,SWISS,132,64108
+MAD,Spain,EUROPE,Iberia,150,63542
+PVG,China,ASIA PACIFIC,China Eastern Airlines,147,58421
+SIN,Singapore,ASIA PACIFIC,Singapore Airlines,117,57987
+ICN,Korea Republic,ASIA PACIFIC,Korean Air,133,57667
+BKK,Thailand,ASIA PACIFIC,Thai Airways International,119,56731
+ISL,Turkey,EUROPE,Turkish Airlines,220,56167
+HKG,Hong Kong China,ASIA PACIFIC,Cathay Pacific Airways,130,55701
+DXB,United Arab Emirates,MIDDLE EAST AND AFRICA,Emirates,167,52674
+YVR,Canada,NORTH AMERICA,Air Canada,76,49155
+MEX,Mexico,LATIN AMERICA,Aeromexico,93,45373
+KUL,Malaysia,ASIA PACIFIC,AirAsia,105,37525
+SYD,Australia,ASIA PACIFIC,Qantas Airways,81,31343
+GRU,Brazil,LATIN AMERICA,LATAM Airlines Group,84,29439
+SVO,Russian Federation,EUROPE,Aeroflot Russian Airlines,133,27174
+HND,Japan,ASIA PACIFIC,All Nippon Airways,71,27072
+AUH,United Arab Emirates,MIDDLE EAST AND AFRICA,Etihad Airways,80,25635
+CGK,Indonesia,ASIA PACIFIC,Garuda Indonesia,48,23342
+PTY,Panama,LATIN AMERICA,Copa Airlines,68,22303
+BOG,Colombia,LATIN AMERICA,Avianca,74,21204
+JED,Saudi Arabia,MIDDLE EAST AND AFRICA,Saudi Arabian Airlines,89,20065
+CAI,Egypt,MIDDLE EAST AND AFRICA,Egyptair,72,19471
+RUH,Saudi Arabia,MIDDLE EAST AND AFRICA,Saudi Arabian Airlines,71,19227
+DOH,Qatar,MIDDLE EAST AND AFRICA,Qatar Airways,104,18440
+MNL,Philippines,ASIA PACIFIC,Cebu Pacific Air,72,17075
+KWI,Kuwait,MIDDLE EAST AND AFRICA,Kuwait Airways,52,13742
+MCT,Oman,MIDDLE EAST AND AFRICA,Oman Air,54,13179
+LIM,Peru,LATIN AMERICA,LATAM Airlines Group,52,13060
+ADD,Ethiopia,MIDDLE EAST AND AFRICA,Ethiopian Airlines,70,7814

@@ -1,0 +1,60 @@
+id,lat,lng,Name,City,Country,Label,degree,weighted_degree,component
+1272,14.5086,121.019997,Ninoy Aquino International Airport,Manila,Philippines,RPLL,72,17075,4
+1161,61.17440032958984,-149.99600219726562,Ted Stevens Anchorage International Airport,Anchorage,United States,PANC,34,10511,10
+1260,33.51129913330078,126.49299621582033,Jeju International Airport,Cheju,South Korea,RKPC,30,9053,1
+1306,-19.62444305419922,-43.97194290161133,Tancredo Neves International Airport,Belo Horizonte,Brazil,SBCF,34,8528,8
+1265,37.5583,126.791,Gimpo International Airport,Seoul,South Korea,RKSS,13,6365,1
+1303,-15.86916732788086,-47.92083358764648,Presidente Juscelino Kubistschek International Airport,Brasilia,Brazil,SBBR,41,6354,23
+1336,-29.994400024414062,-51.1713981628418,Salgado Filho Airport,Porto Alegre,Brazil,SBPA,24,4298,8
+1428,43.35210037231445,77.04049682617188,Almaty Airport,Alma-ata,Kazakhstan,UAAA,40,4079,16
+1288,10.307499885559,123.97899627686,Mactan Cebu International Airport,Cebu,Philippines,RPVM,27,3659,4
+1429,51.02220153808594,71.46690368652344,Astana International Airport,Tselinograd,Kazakhstan,UACC,30,2922,16
+2068,10.595399856567385,-61.33720016479492,Piarco International Airport,Port-of-spain,Trinidad and Tobago,TTPP,20,2343,9
+1083,35.68920135498047,51.31340026855469,Mehrabad International Airport,Teheran,Iran,OIII,31,1994,28
+1318,-27.670278549194336,-48.5525016784668,Hercílio Luz International Airport,Florianopolis,Brazil,SBFL,8,1725,23
+1617,-2.5769500733,140.5160064698,Sentani International Airport,Jayapura,Indonesia,WAJJ,8,1184,25
+1424,12.1889,-68.959801,Hato International Airport,Willemstad,Netherlands Antilles,TNCC,17,1066,27
+110,48.37189865112305,-89.32389831542969,Thunder Bay Airport,Thunder Bay,Canada,CYQT,11,889,3
+1090,29.53919982910156,52.58980178833008,Shiraz Shahid Dastghaib International Airport,Shiraz,Iran,OISS,22,822,28
+1427,11.149700164794922,-60.83219909667969,Tobago-Crown Point Airport,Scarborough,Trinidad and Tobago,TTCP,5,806,9
+1014,-17.553699,-149.606995,Faa'a International Airport,Papeete,French Polynesia,NTAA,25,715,13
+1410,16.265301,-61.531799,Pointe-à-Pitre Le Raizet,Pointe-a-pitre,Guadeloupe,TFFR,13,700,2
+414,-4.67434,55.521801,Seychelles International Airport,Mahe,Seychelles,FSIA,8,643,5
+1123,60.77980042,-161.8379974,Bethel Airport,Bethel,United States,PABE,20,594,10
+1423,12.130999565124512,-68.26850128173828,Flamingo International Airport,Kralendijk,Netherlands Antilles,TNCB,6,525,27
+1407,14.590999603271484,-61.00320053100586,Martinique Aimé Césaire International Airport,Fort-de-france,Martinique,TFFF,10,525,2
+866,29.56130027770996,34.96009826660156,Eilat Airport,Elat,Israel,LLET,2,431,7
+2597,-4.10251,138.957001,Wamena Airport,Wamena,Indonesia,WAJW,1,333,25
+1016,-16.444400787353516,-151.75100708007812,Bora Bora Airport,Bora Bora,French Polynesia,NTTB,7,302,13
+2307,32.11470031738281,34.78219985961914,Sde Dov Airport,Tel-aviv,Israel,LLSD,2,288,7
+144,50.11389923095703,-91.9052963256836,Sioux Lookout Airport,Sioux Lookout,Canada,CYXL,17,281,3
+2148,-4.3192901611328125,55.69139862060547,Praslin Airport,Praslin,Seychelles,FSPP,1,269,5
+250,49.91329956054688,-6.291669845581055,St. Mary's Airport,ST MARY\'S,United Kingdom,EGHE,3,246,12
+1135,57.75,-152.4940033,Kodiak Airport,Kodiak,United States,PADQ,2,201,14
+386,3.755270004272461,8.708720207214355,Malabo Airport,Malabo,Equatorial Guinea,FGSL,8,153,24
+2196,44.38270187,-100.2860031,Pierre Regional Airport,Pierre,United States,KPIR,3,138,17
+55,68.30419921880001,-133.483001709,Inuvik Mike Zubko Airport,Inuvik,Canada,CYEV,7,131,22
+249,50.102798,-5.67056,Land's End Airport,Land's End,United Kingdom,EGHC,1,109,12
+2041,66.1449966431,-65.71360015869999,Pangnirtung Airport,Pangnirtung,Canada,CYXP,2,106,21
+657,39.10329819,-84.41860199,Cincinnati Municipal Airport Lunken Field,Cincinnati,United States,KLUK,3,73,29
+2031,52.282501220703125,-81.67780303955078,Kashechewan Airport,Kashechewan,Canada,CZKE,2,56,20
+508,44.91400146,-97.15470123,Watertown Regional Airport,Watertown,United States,KATY,1,54,17
+473,-1.321720004081726,36.81480026245117,Nairobi Wilson Airport,Nairobi,Kenya,HKNW,4,48,15
+385,1.9054700136184688,9.80568027496338,Bata Airport,Bata,Equatorial Guinea,FGBT,1,44,24
+1175,67.0086975098,-146.365997314,Venetie Airport,Venetie,United States,PAVE,2,44,26
+471,-3.2293100357055664,40.10169982910156,Malindi Airport,Malindi,Kenya,HKML,3,44,19
+2037,69.43329620361328,-133.0260009765625,Tuktoyaktuk Airport,Tuktoyaktuk,Canada,CYUB,1,42,22
+37,52.9275016784668,-82.43190002441406,Attawapiskat Airport,Attawapiskat,Canada,CYAT,2,39,20
+2026,70.7341995239,-52.6962013245,Qaarsut Airport,Uummannaq,Greenland,BGUQ,2,36,6
+1725,-37.7281,144.901993,Melbourne Essendon Airport,Melbourne,Australia,YMEN,2,30,11
+24,70.6804279261,-52.1116304398,Uummannaq Heliport,Uummannaq,Greenland,BGUM,1,30,6
+130,67.5457992554,-64.03140258789999,Qikiqtarjuaq Airport,Broughton Island,Canada,CYVM,1,28,21
+2268,40.79940032958984,-74.41490173339844,Morristown Municipal Airport,Morristown,United States,KMMU,1,26,29
+1901,-13.2383003235,-176.199005127,Hihifo Airport,Wallis,Wallis and Futuna,NLWW,3,26,18
+2160,1.73324,40.091599,Wajir Airport,Wajir,Kenya,HKWJ,1,24,15
+470,-2.252419948577881,40.91310119628906,Manda Airstrip,Lamu,Kenya,HKLU,1,23,19
+2622,-38.31809997558594,141.4709930419922,Portland Airport,Portland,Australia,YPOD,1,22,11
+1169,68.1147,-145.578995,Arctic Village Airport,Arctic Village,United States,PARC,1,18,26
+1012,-14.3114004135,-178.065994263,Pointe Vele Airport,Futuna Island,Wallis and Futuna,NLWF,1,16,18
+2380,56.9387016296,-154.182998657,Akhiok Airport,Akhiok,United States,PAKH,1,10,14
+867,32.80939865112305,35.04309844970703,Haifa International Airport,Haifa,Israel,LLHA,1,1,7

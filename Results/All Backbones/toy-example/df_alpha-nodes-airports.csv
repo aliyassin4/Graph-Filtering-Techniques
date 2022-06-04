@@ -1,0 +1,35 @@
+id,lat,lng,Name,City,Country,Label,degree,weighted_degree,component
+259,51.4706,-0.461941,London Heathrow Airport,London,United Kingdom,EGLL,167,138629,7
+806,49.012798,2.55,Charles de Gaulle International Airport,Paris,France,LFPG,233,113422,10
+645,40.63980103,-73.77890015,John F Kennedy International Airport,New York,United States,KJFK,160,110863,3
+1734,40.0801010131836,116.58499908447266,Beijing Capital International Airport,Beijing,China,ZBAA,194,81235,15
+579,42.212398529052734,-83.35340118408203,Detroit Metropolitan Wayne County Airport,Detroit,United States,KDTW,133,67832,7
+286,53.421299,-6.27007,Dublin Airport,Dublin,Ireland,EIDW,141,61987,6
+904,40.976898,28.8146,Atatürk International Airport,Istanbul,Turkey,LTBA,220,56167,13
+758,41.2971,2.07846,Barcelona International Airport,Barcelona,Spain,LEBL,156,55777,3
+736,40.78839874267578,-111.97799682617188,Salt Lake City International Airport,Salt Lake City,United States,KSLC,91,54975,9
+965,19.4363,-99.072098,Licenciado Benito Juarez International Airport,Mexico City,Mexico,MMMX,93,45373,14
+292,55.617900848389,12.656000137329,Copenhagen Kastrup Airport,Copenhagen,Denmark,EKCH,119,42853,13
+1752,23.39240074157715,113.29900360107422,Guangzhou Baiyun International Airport,Guangzhou,China,ZGGG,135,40308,12
+1456,59.80030059814453,30.262500762939453,Pulkovo Airport,St. Petersburg,Russia,ULLI,96,33545,4
+1272,14.5086,121.019997,Ninoy Aquino International Airport,Manila,Philippines,RPLL,72,17075,2
+527,36.1245002746582,-86.6781997680664,Nashville International Airport,Nashville,United States,KBNA,46,12734,9
+1161,61.17440032958984,-149.99600219726562,Ted Stevens Anchorage International Airport,Anchorage,United States,PANC,34,10511,5
+1353,-33.393001556396484,-70.78579711914062,Comodoro Arturo Merino Benítez International Airport,Santiago,Chile,SCEL,41,9806,11
+1260,33.51129913330078,126.49299621582033,Jeju International Airport,Cheju,South Korea,RKPC,30,9053,1
+1306,-19.62444305419922,-43.97194290161133,Tancredo Neves International Airport,Belo Horizonte,Brazil,SBCF,34,8528,8
+1740,40.851398,111.823997,Baita International Airport,Hohhot,China,ZBHH,33,6755,16
+1265,37.5583,126.791,Gimpo International Airport,Seoul,South Korea,RKSS,13,6365,1
+1336,-29.994400024414062,-51.1713981628418,Salgado Filho Airport,Porto Alegre,Brazil,SBPA,24,4298,8
+270,57.20190048217773,-2.197779893875122,Aberdeen Dyce Airport,Aberdeen,United Kingdom,EGPD,29,3932,10
+1288,10.307499885559,123.97899627686,Mactan Cebu International Airport,Cebu,Philippines,RPVM,27,3659,2
+1810,24.7964,118.589996,Quanzhou Jinjiang International Airport,Quanzhou,China,ZSQZ,17,2778,15
+1742,39.78279876708984,116.38800048828124,Beijing Nanyuan Airport,Beijing,China,ZBNY,35,2706,12
+857,41.7994,12.5949,Ciampino–G. B. Pastine International Airport,Rome,Italy,LIRA,41,1860,6
+2304,54.557498931885,55.874401092529,Ufa International Airport,Ufa,Russia,UWUU,16,1564,4
+1495,57.1896018982,65.3243026733,Roshchino International Airport,Tyumen,Russia,USTR,15,1282,4
+1477,44.22510147094727,43.08190155029297,Mineralnyye Vody Airport,Mineralnye Vody,Russia,URMM,13,1244,4
+961,20.9370002747,-89.657699585,Licenciado Manuel Crescencio Rejon Int Airport,Merida,Mexico,MMMD,8,943,14
+1735,42.23500061035156,118.90799713134766,Chifeng Airport,Chifeng,China,ZBCF,10,679,16
+1123,60.77980042,-161.8379974,Bethel Airport,Bethel,United States,PABE,20,594,5
+1354,-23.444501,-70.445099,Andrés Sabella Gálvez International Airport,Antofagasta,Chile,SCFA,5,383,11

@@ -46,7 +46,12 @@ def disparity_filter(G, weight='weight'):
                     w = G[u][v][weight]
                     p_ij = float(np.absolute(w))/sum_w
                     alpha_ij = 1 - (k-1) * integrate.quad(lambda x: (1-x)**(k-2), 0, p_ij)[0]
-                    B.add_edge(u, v, weight = w, alpha=float(alpha_ij))#float('%.4f' % alpha_ij)
+                    try:
+                        if alpha_ij< B[u][v]['alpha']:
+                            B.add_edge(u, v, weight = w, alpha=float(alpha_ij))
+                    except:
+                        B.add_edge(u, v, weight = w, alpha=float(alpha_ij))
+                    # B.add_edge(u, v, weight = w, alpha=float(alpha_ij))
         return B
 
 def disparity_filter_alpha_cut(G,weight='weight',alpha_t=0.4, cut_mode='or'):
